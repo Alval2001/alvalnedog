@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page1Alex.qml</file>
+        <file>Page2Alex.qml</file>
+        <file>img/video.mp4</file>
+        <file>img/logo.png</file>
+    </qresource>
+</RCC>
